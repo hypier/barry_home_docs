@@ -102,3 +102,12 @@ theme: redefine
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+# Images CDN hexo-image-cloudflare
+#cdn:
+#  server: https://images.weserv.nl
+#  use_webp: false
+#  native: false # use cloudflare native image resize
+#  max_width:
+#  exclude_domains:
