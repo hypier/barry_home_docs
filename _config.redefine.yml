@@ -192,6 +192,9 @@ navbar:
     Archives:
        path: /archives
        icon: fa-regular fa-archive # can be empty
+    Tags:
+      icon: fa-solid fa-tags
+      path: /tags
     Github:
       path: https://github.com/hypier
       icon: fa-brands fa-github
@@ -235,9 +238,9 @@ home:
     # Archives:
     #   path: /archives
     #   icon: fa-regular fa-archive # can be empty
-    # Tags:
-    #   path: /tags
-    #   icon: fa-regular fa-tags # can be empty
+#     Tags:
+#       path: /tags
+#       icon: fa-regular fa-tags # can be empty
     # Categories:
     #   path: /categories
     #   icon: fa-regular fa-folder # can be empty
