@@ -192,6 +192,9 @@ navbar:
     Archives:
        path: /archives
        icon: fa-regular fa-archive # can be empty
+    Categories: #取名随意
+      icon: fa-solid fa-folder #图标
+      path: /categories/
     Tags:
       icon: fa-solid fa-tags
       path: /tags
@@ -442,7 +445,7 @@ page_templates:
   # Friend Links page column number
   friends_column: 2
   # Tags page style
-  tags_style: blur # blur, cloud
+  tags_style: cloud # blur, cloud
 # PAGE TEMPLATES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 

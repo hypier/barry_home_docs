@@ -1,5 +1,6 @@
 
 ---
+categories: 人工智能
 cover: https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*HCGBs2wYMws8k5wuEMyRPg.png
 date: '2024-07-26 21:18:36'
 tags:

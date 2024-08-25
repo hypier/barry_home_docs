@@ -1,12 +1,13 @@
 
 ---
+categories: 人工智能
 cover: https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*LWorbwqFjVku5YSmQArEgQ.png
 date: '2024-07-18 01:15:38'
 tags:
-  - 自主性AI
+  - AI代理
   - 多模态模型
-  - 网络代理
-title: 大型语言模型是如何工作的
+  - 网页浏览
+title: Agentic AI：创建可以浏览互联网的 AI 代理
 
 ---
 

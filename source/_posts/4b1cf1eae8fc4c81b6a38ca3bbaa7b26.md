@@ -1,12 +1,13 @@
 
 ---
+categories: 人工智能
 cover: https://cdn-images-1.readmedium.com/v2/resize:fit:800/0*MUthK5ViL2E5Ycoz
 date: '2024-07-05 18:27:28'
 tags:
   - 开源软件
   - GitHub项目
   - AI工具
-title: 2024年四大新兴AI视频生成器
+title: 9 个热门 GitHub 项目
 
 ---
 9 个热门 GitHub 项目
